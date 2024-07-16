@@ -8,6 +8,8 @@ Description: Specialized functions for single cell 'omics analyses and plotting.
 License: AGPL (>= 3)
 Encoding: UTF-8
 LazyData: true
+Depends:
+    data.table
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
